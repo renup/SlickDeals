@@ -13,6 +13,10 @@ struct DealDetailView: View {
     
     @StateObject var viewModel = DealDetailViewModel()
     
+    let rows = [
+        GridItem(.fixed(150), spacing: 10, alignment: .center),
+    ]
+    
     var body: some View {
         ScrollView(showsIndicators: false) {
             VStack(alignment: .leading, spacing: 10) {
@@ -119,7 +123,7 @@ struct DealDetailView: View {
             Text("Suggested Deals for you")
                 .font(.body).bold()
             ScrollView(.horizontal, showsIndicators: false){
-                HStack(spacing: 10) {
+                LazyHGrid(rows: rows) {
                     ForEach(viewModel.suggestedDeals) { deal in
                         NavigationLink(value: deal) {
                             DealCell(deal: deal)

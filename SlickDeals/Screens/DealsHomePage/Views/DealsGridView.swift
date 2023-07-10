@@ -12,8 +12,8 @@ struct DealsGridView: View {
     @State var path = NavigationPath()
     
     let column = [
-        GridItem(.flexible(minimum: 165), spacing: 10, alignment: .center),
-        GridItem(.flexible(minimum: 165), spacing: 10, alignment: .center)
+        GridItem(.fixed(165), spacing: 10, alignment: .center),
+        GridItem(.fixed(165), spacing: 10, alignment: .center)
     ]
     
     var body: some View {
