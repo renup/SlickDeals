@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "46031EDD-E501-4ADC-9C33-8BA109640F5F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "766E8902-1A45-41D0-88D6-CCBAEB29C69F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlickDeals/Screens/DealsList/ViewModels/DealsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getDeals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "169A6ADF-299B-46EA-A445-52ACBF6D35CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlickDeals/Screens/DealsList/ViewModels/DealsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getDeals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85EDF32A-F596-457C-8F93-218C843754EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlickDeals/Screens/DealsList/Network/DealsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchDeals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85EDF32A-F596-457C-8F93-218C843754EF - eab9bbb038abb7f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SlickDeals.DealsService.fetchDeals() throws -&gt; Swift.Array&lt;SlickDeals.Deal&gt;"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Desktop/SlickDeals/SlickDeals/Screens/DealsList/Network/DealsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "85EDF32A-F596-457C-8F93-218C843754EF - eab9bbb038abb7f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SlickDeals.DealsService.fetchDeals() throws -&gt; Swift.Array&lt;SlickDeals.Deal&gt;"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Desktop/SlickDeals/SlickDeals/Screens/DealsList/Network/DealsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24757E17-6DF3-4F50-8BA5-DBC9B91016DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlickDeals/Screens/DealsList/Network/DealsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchDeals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC2B5640-076E-4907-836E-5CAD7B23877E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlickDeals/Screens/DealsList/Network/DealsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchDeals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6CC6CA5-84D8-45F1-BD8B-69BB7C194329"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlickDeals/Screens/UserDetail/UserDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C6CC6CA5-84D8-45F1-BD8B-69BB7C194329 - 2303e7456bc90724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt;&gt;&gt;)&gt; in SlickDeals.UserDetailView.body.getter : some"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Documents/SlickDeals/SlickDeals/Screens/UserDetail/UserDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+               <Location
+                  uuid = "C6CC6CA5-84D8-45F1-BD8B-69BB7C194329 - 2303e7456bc90724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt;&gt;&gt;)&gt; in SlickDeals.UserDetailView.body.getter : some"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Documents/SlickDeals/SlickDeals/Screens/UserDetail/UserDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "C6CC6CA5-84D8-45F1-BD8B-69BB7C194329 - c47e626ffde50ba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt;&gt;)&gt; in SlickDeals.UserDetailView.body.getter : some"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Documents/SlickDeals/SlickDeals/Screens/UserDetail/UserDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+               <Location
+                  uuid = "C6CC6CA5-84D8-45F1-BD8B-69BB7C194329 - c49fcec278d2e2ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt;&gt;)&gt; in SlickDeals.UserDetailView.body.getter : some"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Documents/SlickDeals/SlickDeals/Screens/UserDetail/UserDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "C6CC6CA5-84D8-45F1-BD8B-69BB7C194329 - 2303e7456bc90724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.LazyVGrid&lt;Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt;&gt;&gt;)&gt; in SlickDeals.UserDetailView.body.getter : some"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Documents/SlickDeals/SlickDeals/Screens/UserDetail/UserDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+               <Location
+                  uuid = "C6CC6CA5-84D8-45F1-BD8B-69BB7C194329 - 2acbced128897550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.LazyVGrid&lt;Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SlickDeals.LikedDeal&gt;, SlickDeals.LikedDeal, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;&gt;&gt;&gt;)&gt; in SlickDeals.UserDetailView.body.getter : some"
+                  moduleName = "SlickDeals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renupunjabi/Documents/SlickDeals/SlickDeals/Screens/UserDetail/UserDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
