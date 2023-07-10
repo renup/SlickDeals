@@ -25,9 +25,7 @@ struct DealCell: View {
             HStack(spacing: 8) {
                 PriceView(price: Double(deal.price), discount: 1.3)
             }
-            .font(.system(.caption)).bold()
-            
-            
+            .font(.system(.caption)).bold() 
         }
         .padding()
         .background(.white)

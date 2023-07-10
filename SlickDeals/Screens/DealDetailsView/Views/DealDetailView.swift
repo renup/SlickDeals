@@ -30,7 +30,6 @@ struct DealDetailView: View {
                     .cornerRadius(10)
                     .padding(15)
                     .shadow(radius: 10)
-                
                 pagination
                     .padding(.bottom, 10)
                 HStack {
@@ -63,7 +62,6 @@ struct DealDetailView: View {
                             viewModel.getSuggestedDeals(deal: deal)
                         }
                 }
-                
             }
         }
         .padding()

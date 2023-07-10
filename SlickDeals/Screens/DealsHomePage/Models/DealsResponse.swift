@@ -75,14 +75,7 @@ struct LikedDeal: Codable, Hashable {
 
 struct ShortDealInfo: Codable, Hashable {
     let id: String
-    let title: String
-//    let url: URL
-//    let price: Int
-//    let createdAt: String
-//    let updatedAt: String
     
-    static let mock = ShortDealInfo(id: "1", title: "deal title")
-
-//    static let mock = ShortDealInfo(id: "1", title: "deal title", url: URL(string: "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/9025577/9025577_o01.jpg")!, price: 10, createdAt: "today", updatedAt: "today")
+    static let mock = ShortDealInfo(id: "1")
 }
 

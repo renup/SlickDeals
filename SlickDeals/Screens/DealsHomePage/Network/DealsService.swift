@@ -40,9 +40,6 @@ final class DealsService: DealsServiceProtocol {
     }
     
     func getDeal(id: String) -> Deal? {
-        
-//        return deals.filter { $0.id == id }.first
-
         return dealsDictionary[id]
     }
     

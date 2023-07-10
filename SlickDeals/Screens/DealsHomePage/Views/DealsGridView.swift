@@ -57,7 +57,6 @@ struct DealsGridView: View {
         HStack(spacing: 5) {
             Image(systemName: "magnifyingglass")
             TextField("Search", text: $viewModel.searchText)
-                
         }
     }
     

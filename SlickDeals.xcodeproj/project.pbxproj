@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7C2AFD682A53928D00BA663D /* DealCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD672A53928D00BA663D /* DealCell.swift */; };
-		7C2AFD6D2A53AE0A00BA663D /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD6C2A53AE0A00BA663D /* ErrorView.swift */; };
 		7C2AFD6F2A544CF000BA663D /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD6E2A544CF000BA663D /* RemoteImage.swift */; };
 		7C2AFD722A544D3300BA663D /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD712A544D3300BA663D /* ImageCache.swift */; };
 		7C2AFDC12A56D54800BA663D /* DealDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFDC02A56D54800BA663D /* DealDetailView.swift */; };
@@ -52,7 +51,6 @@
 
 /* Begin PBXFileReference section */
 		7C2AFD672A53928D00BA663D /* DealCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealCell.swift; sourceTree = "<group>"; };
-		7C2AFD6C2A53AE0A00BA663D /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 		7C2AFD6E2A544CF000BA663D /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
 		7C2AFD712A544D3300BA663D /* ImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
 		7C2AFDC02A56D54800BA663D /* DealDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealDetailView.swift; sourceTree = "<group>"; };
@@ -109,7 +107,6 @@
 		7C2AFD6B2A53ADFD00BA663D /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				7C2AFD6C2A53AE0A00BA663D /* ErrorView.swift */,
 				7C2AFD6E2A544CF000BA663D /* RemoteImage.swift */,
 				7C2AFDC52A581FAD00BA663D /* PriceView.swift */,
 				7C2AFDCF2A58B66C00BA663D /* AvailabilityView.swift */,
@@ -412,7 +409,6 @@
 				7C2AFDC12A56D54800BA663D /* DealDetailView.swift in Sources */,
 				7C2AFDC62A581FAD00BA663D /* PriceView.swift in Sources */,
 				7C2AFDC32A57544400BA663D /* AppDesignTool.swift in Sources */,
-				7C2AFD6D2A53AE0A00BA663D /* ErrorView.swift in Sources */,
 				7C751F672A52423B00DC1BBF /* DealsService.swift in Sources */,
 				7C751F6C2A5244F500DC1BBF /* APIError.swift in Sources */,
 				7C2AFE142A5A46D100BA663D /* DealDeatilsViewModel.swift in Sources */,
